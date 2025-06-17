@@ -1,4 +1,4 @@
-# Loan-Fraud-Analysis
+# Loan-Fraud-Analysis SQL + Power BI
 SQL + Power BI Project to detect and analyze loan fraud cases
 
 
